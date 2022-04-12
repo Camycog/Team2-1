@@ -217,3 +217,12 @@ body {
 .form-Index a:hover{
     text-decoration-style: underline;
 }
+.buttons_gen {
+    width: 10%;
+    height: 40px;
+    background: #017bab;
+    border: none;
+    text-align: center;
+    color: white;
+    margin-bottom: 16px;
+}
