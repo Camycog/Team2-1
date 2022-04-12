@@ -254,10 +254,10 @@ body {
 .form-kpop img{
     width: 10%;
     text-align: left;
-    background: #4e4d4d;
+    background: #ffffff03;
 }
 .form-kpop a{
-    color: white;
+    color: rgb(218, 182, 182);
     text-decoration: none;
     font-size: 14px;
 }
