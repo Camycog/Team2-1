@@ -230,12 +230,12 @@ body {
 .form-kpop {
     width: 600px;
     height: 500px;
-    background: #4e4d4d;
+    background: #d692c6;
     margin: auto;
     margin-top: 100px;
-    box-shadow: 7px 13px 37px #000;
+    box-shadow: 7px 13px 37px rgb(214, 174, 174);
     padding: 20px 30px;
-    border-top: 4px solid #017bab;
+    border-top: 4px solid #e7cfe1;
     color: white;
 }
 .form-kpop h5 {
@@ -263,4 +263,13 @@ body {
 }
 .form-kpop a:hover{
     text-decoration-style: underline;
+}
+.buttons7 {
+    width: 100%;
+    height: 40px;
+    background: #c282b3;
+    border: none;
+    text-align: center;
+    color: white;
+    margin-bottom: 16px;
 }
