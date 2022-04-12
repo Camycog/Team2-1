@@ -273,3 +273,12 @@ body {
     color: white;
     margin-bottom: 16px;
 }
+.controls7 {
+    width: 100%;
+    border: 1px solid #7d7d7d;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: #d6d3d3;
+    font-size: 14px;
+    font-weight: bold;
+}
