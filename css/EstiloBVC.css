@@ -226,3 +226,22 @@ body {
     color: white;
     margin-bottom: 16px;
 }
+}
+.form-kpop p{
+    height: 50px;
+    text-align: left;
+    border-bottom: 1px solid;
+}
+.form-kpop img{
+    width: 10%;
+    text-align: left;
+    background: #4e4d4d;
+}
+.form-kpop a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+.form-registro a:hover{
+    text-decoration-style: underline;
+}
